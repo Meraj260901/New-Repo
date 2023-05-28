@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It was really a good day of alien plot 2
+=======
+It was really a good day of alien plot 222222
+>>>>>>> alien-plot
